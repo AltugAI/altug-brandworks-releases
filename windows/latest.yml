@@ -1,0 +1,8 @@
+version: 1.1.0
+files:
+  - url: https://media.githubusercontent.com/media/AltugAI/altug-brandworks-releases/main/windows/AltugBrandworks-Setup-1.1.0.exe
+    sha512: 7UgxkLor2JIEgEJFKiLyFmoAg888voGyj5NMzEVUCxa6/8CWT/75i/Yg86hbpExacXv2xr1Eyjv3DQEzJKgaRg==
+    size: 114232854
+path: https://media.githubusercontent.com/media/AltugAI/altug-brandworks-releases/main/windows/AltugBrandworks-Setup-1.1.0.exe
+sha512: 7UgxkLor2JIEgEJFKiLyFmoAg888voGyj5NMzEVUCxa6/8CWT/75i/Yg86hbpExacXv2xr1Eyjv3DQEzJKgaRg==
+releaseDate: '2026-11-15T17:42:52.647Z'
